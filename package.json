@@ -1,0 +1,13 @@
+{
+  "name": "weather-app",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Wetterwarnungen Abo – demo projekt",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
